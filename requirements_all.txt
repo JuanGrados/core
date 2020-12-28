@@ -1345,6 +1345,9 @@ pydelijn==0.6.1
 # homeassistant.components.dexcom
 pydexcom==0.2.0
 
+# homeassistant.components.discovergy
+pydiscovergy==0.0.4
+
 # homeassistant.components.zwave
 pydispatcher==2.0.5
 
