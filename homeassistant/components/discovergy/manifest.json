@@ -1,0 +1,16 @@
+{
+  "domain": "discovergy",
+  "name": "Discovergy Smart Meter",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/discovergy",
+  "requirements": [
+    "pydiscovergy==0.0.4"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@juangrados"
+  ]
+}
